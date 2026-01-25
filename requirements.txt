@@ -1,0 +1,18 @@
+# Core
+pandas>=2.0
+numpy>=1.23
+
+# Modeling & ML
+scikit-learn>=1.2
+xgboost>=1.7
+optuna>=3.0
+statsmodels>=0.14
+scipy>=1.9
+
+# Visualization
+matplotlib>=3.7
+plotly>=6.1.1
+kaleido>=1.0
+
+# Utilities
+joblib>=1.2
