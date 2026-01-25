@@ -12,17 +12,22 @@ The study makes a primarily empirical contribution by quantifying the scale and 
 ## Repository Structure
 
 SCIENCE_WATER_REVENUE_PARADOX/
+├── README.md
 ├── requirements.txt
 ├── code/
-│ ├── 01_eda_and_figures.ipynb
-│ └── 02_modeling_and_evaluation.ipynb
+│   ├── 01_eda_and_figures.ipynb
+│   └── 02_modeling_and_evaluation.ipynb
 ├── data/
-│ ├── analysis_dataset.csv
-│ └── README_data.md
-├── outputs/
-│ └── figures/
-└── docs/
-└── data_code_availability.md
+│   ├── analysis_dataset.csv
+│   └── README_data.md
+├── docs/
+│   └── data_code_availability.md
+└── outputs/
+    └── figures/
+        ├── revenue_per_handpump.svg
+        ├── revenue_per_m3_scheme.svg
+        └── revenue_per_person.svg
+
 
 
 ---
