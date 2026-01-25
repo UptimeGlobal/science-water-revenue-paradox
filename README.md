@@ -11,6 +11,7 @@ The study makes a primarily empirical contribution by quantifying the scale and 
 
 ## Repository Structure
 
+```
 SCIENCE_WATER_REVENUE_PARADOX/
 ├── README.md
 ├── requirements.txt
@@ -27,7 +28,7 @@ SCIENCE_WATER_REVENUE_PARADOX/
         ├── revenue_per_handpump.svg
         ├── revenue_per_m3_scheme.svg
         └── revenue_per_person.svg
-
+```
 
 
 ---
