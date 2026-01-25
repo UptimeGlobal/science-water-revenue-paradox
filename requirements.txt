@@ -16,3 +16,5 @@ kaleido>=1.0
 
 # Utilities
 joblib>=1.2
+ipywidgets>=8.0
+jupyterlab>=4.0
