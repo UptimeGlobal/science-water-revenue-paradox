@@ -18,7 +18,7 @@ SCIENCE_WATER_REVENUE_PARADOX/
 ├── code/
 │   ├── 01_eda_and_figures.ipynb
 │   └── 02_modeling_and_evaluation.ipynb
-    └── figures/
+    └── models/
         └── README.md
 ├── data/
 │   ├── analysis_dataset.csv
