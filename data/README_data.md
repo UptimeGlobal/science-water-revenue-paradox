@@ -1,7 +1,8 @@
 # Dataset Documentation (analysis_dataset.csv)
 
 ## Overview
-`analysis_dataset.csv` contains the anonymized analytical dataset used to generate the descriptive figures and to train/evaluate the predictive models reported in the manuscript.
+`analysis_dataset.csv` (DOI: 10.5061/dryad.7pvmcvf7r) contains the anonymized analytical dataset used to generate the descriptive figures and to train/evaluate the predictive models reported in the manuscript.
+
 
 Each row corresponds to a single annual observation of a rural water service (aggregated at the service-year level, e.g., waterpoint-year or scheme-year depending on infrastructure type).
 
