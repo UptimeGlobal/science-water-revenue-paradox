@@ -39,7 +39,7 @@ SCIENCE_WATER_REVENUE_PARADOX/
 
 All analyses in the manuscript are based on the anonymized analytical dataset provided in:
 
-- `data/analysis_dataset.csv`
+- `data/analysis_dataset.csv` DOI: 10.5061/dryad.7pvmcvf7r
 
 This dataset is sufficient to reproduce all figures, tables, and modeling workflows reported in the paper. Details on dataset structure and variables are provided in `data/README_data.md`.
 
